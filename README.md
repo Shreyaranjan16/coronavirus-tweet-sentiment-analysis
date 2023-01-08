@@ -35,12 +35,7 @@ Plotting the needed graphs that provide the necessary information about our data
 ●	Getting a plot on Top 20 Location with highest tweets.
 ●	Plotting Seaborn Barplot Count of tweets as per sentiment.
 ●	Plotting graph for the total number of tweets for the new 3 subcategories of the target variable.
-●	Getting a plot on Top dates with maximum number of tweets.
- ![image](https://user-images.githubusercontent.com/106916980/211207609-4c68896e-bb33-4f97-8c59-4cb686b69ead.png)
-Plotting Seaborn Barplot Count of tweets as per sentiment.
-![image](https://user-images.githubusercontent.com/106916980/211207634-2c357eeb-ea9a-4fad-95af-58eb471adb01.png)
-Plotting graph for the total number of tweets for the new 3 subcategories of the target variable.
-![image](https://user-images.githubusercontent.com/106916980/211207673-b527dec8-01e0-4d50-8dae-1b8f1a2a4188.png)
+●	
 ➢	Train And Test the Model:-
 ●	Vectorizing the text in OriginalTweet using countvectorizer. A countvectorizer is used to transform a given text into a vector on the basis of the frequency (count) of each word that occurs in the entire text.
 ●	The dependent and independent variables are assigned.
@@ -100,9 +95,6 @@ Multinomial Naive Bayes performed the worst with a test accuracy score of just 0
 ●	The "Sentiment" section informed me that most individuals had good feelings about a variety of topics, demonstrating their optimism in the face of pandemics. Extremely pessimistic ideas regarding Covid-19 are common.
 ●	Support Vector Classifier has performed slightly better than the Logistic regression and got the highest test accuracy score around 60%.
 ●	Multinomial Naive Bayes performed the worst with a test accuracy score of just 0.35. 
-References: 
-●	Analytics Vidya
-●	My Great Learning
 
 
 
